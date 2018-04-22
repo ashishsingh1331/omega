@@ -1,0 +1,7 @@
+<?php 
+
+function mycoty_init(){
+ $path = libraries_get_path('angularjs');
+ drupal_add_js($path. '/angular.js');
+
+}

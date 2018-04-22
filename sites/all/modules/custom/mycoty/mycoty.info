@@ -1,0 +1,6 @@
+name = My Coty
+description = Provides and interface to Drupal for AngularJS
+core = 7.x
+
+dependencies[] = libraries
+scripts[] = js/customCoty.js
